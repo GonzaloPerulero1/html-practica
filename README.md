@@ -16,4 +16,4 @@ Gonzalo Perulero
 
 ## Ver ejercicios 
 - Ejercicio 1: https://GonzaloPerulero1.github.io/html-practica/Ejercicio-html-basico/
-- Ejercicio 2: https://GonzaloPerulero1.github.io/html-practica/Ejercicio 2/
+- Ejercicio 2: https://GonzaloPerulero1.github.io/html-practica/Ejercicio-2/
